@@ -1,0 +1,2 @@
+# Byte-exactness is the whole point: no EOL normalization, ever.
+* -text
