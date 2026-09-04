@@ -1,0 +1,11 @@
+repo_url: https://github.com/github-linguist/linguist
+source: https://codeload.github.com/github-linguist/linguist/tar.gz/befd3af35e70150b76458085208435eef9286bb3
+snapshot_path: vendor/source_snapshot/
+git_metadata_included: NO (tarball download, no .git)
+snapshot_files_on_disk: 4278
+snapshot_symlinks: 3 (not creatable on this Windows host; recorded with link targets in manifest/source_inventory.json and intentionally NOT translated)
+symlink_1: samples/Ant Build System/filenames/build.xml -> ant.xml
+symlink_2: samples/Markdown/symlink.md -> README.mdown
+symlink_3: test/fixtures/SVG/alg_schema.link.svg -> alg_schema.svg
+tarball_sha256: 01EF2366FAA3481608C5B3E9E83E613C12A4A1724947D87EC12B081B1A9A7677
+fetched_at_utc: 2026-09-03T20:17:48Z

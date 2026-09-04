@@ -1,0 +1,70 @@
+{
+ "source_commit": "befd3af35e70150b76458085208435eef9286bb3",
+ "LINGUIST_SOURCE_FILES": 4281,
+ "TEXT_FILES": 4258,
+ "BINARY_FILES": 20,
+ "SYMLINK_FILES": 3,
+ "MIRRORED_FILES_LEVEL1": 4258,
+ "TRANSLATED_FILES_LEVEL2_REAL_MALBOLGE": 379,
+ "ORIGINAL_TEXT_BYTES": 31647823,
+ "MIRROR_ENVELOPE_BYTES": 42509444,
+ "MIRROR_EXPANSION_RATIO": 1.343,
+ "MALBOLGE_REAL_PROGRAM_BYTES": 1421372,
+ "E2E_TRANSLATED_SOURCE_BYTES": 21902,
+ "MIN_EXPANSION_RATIO": 41.7,
+ "MAX_EXPANSION_RATIO": 462.75,
+ "MEDIAN_EXPANSION_RATIO": 67.83,
+ "LARGEST_TRANSLATED_FILES": [
+  {
+   "source": "samples/PHP/root.php",
+   "malbolge_chars": 6980,
+   "source_bytes": 127
+  },
+  {
+   "source": "samples/Scala/scala",
+   "malbolge_chars": 6577,
+   "source_bytes": 124
+  },
+  {
+   "source": "samples/Swift/section-37.swift",
+   "malbolge_chars": 6251,
+   "source_bytes": 124
+  },
+  {
+   "source": "samples/Swift/section-31.swift",
+   "malbolge_chars": 6201,
+   "source_bytes": 121
+  },
+  {
+   "source": "samples/Ignore List/filenames/.vscodeignore",
+   "malbolge_chars": 6161,
+   "source_bytes": 116
+  },
+  {
+   "source": "samples/Prolog/ex6.pl",
+   "malbolge_chars": 6136,
+   "source_bytes": 124
+  },
+  {
+   "source": "samples/CQL/alter_role.cql",
+   "malbolge_chars": 6051,
+   "source_bytes": 126
+  },
+  {
+   "source": "samples/Cadence/read_profile.cdc",
+   "malbolge_chars": 6041,
+   "source_bytes": 117
+  },
+  {
+   "source": "samples/Cirru/demo.cirru",
+   "malbolge_chars": 6029,
+   "source_bytes": 112
+  },
+  {
+   "source": "samples/Mermaid/flowchart.mmd",
+   "malbolge_chars": 6018,
+   "source_bytes": 127
+  }
+ ],
+ "build_duration_s": 7.3
+}

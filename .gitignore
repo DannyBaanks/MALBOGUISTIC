@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+evidence/*.log
+evidence/*.err
+evidence/level2_state.json
+build/
+dist/
+*.egg-info/

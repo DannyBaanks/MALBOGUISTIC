@@ -1,0 +1,10 @@
+vendored_package: malbolge_translator (malbolge_translator/ directory of Malbolge-Translator)
+source_repo: https://github.com/<owner>/Malbolge-Translator (local origin: C:\Development\ISyCo Git\Malbolge-Translator)
+source_commit: 16ca88287615588027a1b5b78ec606def02ef4ad
+license: MIT (see vendor/malbolge_translator/LICENSE)
+vendored_at_utc: 2026-09-03T20:30:00Z
+notes: unmodified copy of the package directory, __pycache__ excluded.
+additional_runtime_dependency: malbolge-generator (MIT), importable as `malbolge`.
+  Install: `pip install malbolge-generator` or from the malbolge-toolkit repo.
+  WITHOUT it, level 1 (codec mirror) still builds; level 2 (real Malbolge
+  synthesis + execution) reports SYNTHESIS_UNAVAILABLE honestly.
